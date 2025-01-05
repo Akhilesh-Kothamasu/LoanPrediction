@@ -8,11 +8,6 @@ This project focuses on predicting loan repayment outcomes using machine learnin
 - Preprocess data by handling missing values, encoding categorical variables, and scaling numerical features.
 - Train and evaluate machine learning models like Logistic Regression and Random Forest.
 
-## Requirements
-Ensure the following Python libraries are installed:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-
 ## Workflow
 Problem Definition: Establish the goal of predicting loan repayment.
 Data Import and Analysis: Load and explore the dataset.
@@ -25,3 +20,9 @@ Place the dataset file in the project directory before running the notebook. If 
 
 ## Results
 The project includes visualizations and performance metrics to demonstrate the model's ability to predict loan repayment outcomes effectively.
+
+## Requirements
+Ensure the following Python libraries are installed:
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+
